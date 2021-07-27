@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDOL", "SEDOL\SEDOL.csproj", "{5E9A7749-FECD-477E-9FE8-AB3A837646B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{365FAF10-28F3-4CBD-A5EA-DFA04EB0CB6D}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDOL.UnitTest", "SEDOL.UnitTest\SEDOL.UnitTest.csproj", "{E9875B68-7D89-4BB9-8D17-BDEA4996D2A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9A7749-FECD-477E-9FE8-AB3A837646B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9A7749-FECD-477E-9FE8-AB3A837646B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9A7749-FECD-477E-9FE8-AB3A837646B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9A7749-FECD-477E-9FE8-AB3A837646B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9875B68-7D89-4BB9-8D17-BDEA4996D2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9875B68-7D89-4BB9-8D17-BDEA4996D2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9875B68-7D89-4BB9-8D17-BDEA4996D2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9875B68-7D89-4BB9-8D17-BDEA4996D2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02732C9E-3855-472A-BA98-1883F3D60885}
+	EndGlobalSection
+EndGlobal
