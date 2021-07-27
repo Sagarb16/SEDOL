@@ -46,6 +46,7 @@
         /// Property returns true if user defined Sedol
         /// </summary>
         public bool IsUserDefined => _sedolInput.StartsWith(USER_DEFINED_CHARACTER.ToString());
+
         #endregion
 
 
@@ -76,6 +77,7 @@
                 throw ex; 
             }
         }
+
         #endregion
 
 
@@ -103,6 +105,7 @@
                 throw ex;
             }
         }
+
         #endregion
     }
 }
