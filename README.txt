@@ -1,4 +1,4 @@
-M&G Distribution Candidate Test
+SEDOL Checker
 
 ------------------------------------------------------------------
 There are two projects in solution
